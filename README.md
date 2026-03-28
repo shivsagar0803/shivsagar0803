@@ -38,19 +38,40 @@ I enjoy transforming raw industrial and business data into **actionable insights
 ## 🧰 Tech Stack  
 
 <p align="left">
+
+<!-- Core Skills -->
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/ETL-4B0082?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AWS-Basics-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS_Basics-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Data_Analysis-008080?style=for-the-badge"/>
+
+<br/>
+
+<!-- Tools -->
 <img src="https://img.shields.io/badge/MS_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+
+<br/>
+
+<!-- Web -->
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</p>
 
+<br/>
+
+<!-- Networking & Cybersecurity -->
+<img src="https://img.shields.io/badge/Computer_Networks-00599C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/TCP/IP-0078D6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OSI_Model-4B8BBE?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/IP_Addressing-6A5ACD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Cybersecurity-FF0000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Information_Security-8B0000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Risk_Assessment-2F4F4F?style=for-the-badge"/>
+
+</p>
 ---
 
 ## 📊 GitHub Stats  
